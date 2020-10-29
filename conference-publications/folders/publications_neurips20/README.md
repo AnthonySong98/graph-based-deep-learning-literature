@@ -105,6 +105,7 @@
 # Programs
 - [CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/codecmr_neurips20/README.md)
 - [Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ipagnn_neurips20/README.md)
+- [Transferable Graph Optimizers for ML Compilers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/go_neurips20/README.md)
 
 
 
@@ -120,6 +121,7 @@
 - [Cross-Scale Internal Graph Neural Network for Image Super-Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ignn_neurips20/README.md)
 - [Language and Visual Entity Relationship Graph for Agent Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egvln_neurips20/README.md)
 - [GPS-Net: Graph-based Photometric Stereo Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpsnet_neurips20/README.md)
+- [Primal-Dual Mesh Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pdmeshnet_neurips20/README.md)
 - Multimodal Graph Networks for Compositional Generalization in Visual Question Answering
 
 
@@ -155,6 +157,7 @@
 - [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
+- [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
 - [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
@@ -183,7 +186,6 @@
 - [Deep Imitation Learning for Bimanual Robotic Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hdril_neurips20/README.md)
 - Binary Matrix Completion with Hierarchical Graph Side Information
 - Adaptive Shrinkage Estimation for Streaming Graphs
-- Transferable Graph Optimizers for ML Compilers
 - Curvature Regularization to Prevent Distortion in Graph Embedding
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine
 - Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes
@@ -193,11 +195,9 @@
 - Stochastic Deep Gaussian Processes over Graphs
 - Probabilistic Circuits for Variational Inference in Discrete Graphical Models
 - A Novel Approach for Constrained Optimization in Graphical Models
-- Graph Geometry Interaction Learning
 - Higher-Order Spectral Clustering of Directed Graphs
 - Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
 - Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies
-- Factor Graph Grammars
 - Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning
 - A Novel Automated Curriculum Strategy to Solve Hard AI Planning Instances
 - Inference and Estimation in Multi-Layer Models
@@ -206,4 +206,3 @@
 - Probabilistic Inference with Algebraic Constraints: Theoretical Limits and Practical Approximations
 - Learning Continuous System Dynamics fromIrregularly-Sampled Partial Observations
 - All-or-nothing statistical and computational phase transitions in sparse spiked matrix estimation
-- Transferable Graph Optimizers for ML Compilers
